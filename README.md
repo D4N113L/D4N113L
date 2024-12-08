@@ -1,8 +1,4 @@
-Hi, I’m Daniel Greiner
-
-- 17 y/o final-year CS student @ The Open University of Israel.  
-- Focused on low-level security research and development.  
-- Regularly solve CTFs—mainly pwn, reverse engineering, and crypto.  
+I’m a 17-year-old final-year Computer Science student at The Open University of Israel, with a strong focus on low-level security research and development. I’m also an active participant in CTFs, specializing in pwn, reverse engineering, and cryptography.  
 
 <!---
 D4N113L/D4N113L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
